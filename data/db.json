@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepag",
+      "details": "Lorem ipsum",
+      "complete": false
+    }
+  ]
+}
