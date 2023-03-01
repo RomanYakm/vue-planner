@@ -1,13 +1,10 @@
 # project-planner
+1. npm run serve for client
+2. npm run server for database
 
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
 ```
 
 ### Compiles and minifies for production
