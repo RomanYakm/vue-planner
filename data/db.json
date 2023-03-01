@@ -1,10 +1,10 @@
 {
   "projects": [
     {
-      "id": 1,
-      "title": "Create new homepag",
-      "details": "Lorem ipsum",
-      "complete": false
+      "title": "Create filter",
+      "details": "Hello world",
+      "complete": true,
+      "id": 2
     }
   ]
 }
